@@ -13,7 +13,9 @@ public class Main {
 	public void abc(){
 		
 	}
-		
+	public void def(){
+
+	}
 	}
 
 }
